@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "name": "Erős István",
+      "city": "Szeged",
+      "salary": 395,
+      "id": "clqzEcL3vr0"
+    },
+    {
+      "name": "Csendes Irén",
+      "city": "Pécs",
+      "salary": 392,
+      "id": "vDslQl5iPN8"
+    }
+  ],
+  "positions": [
+    {
+      "name": "fejlesztő",
+      "id": "mtYN0leyUmc"
+    },
+    {
+      "name": "tesztelő",
+      "id": "aJeISRUMhk8"
+    },
+    {
+      "name": "takarító",
+      "id": "MQhpFZJRkB0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
